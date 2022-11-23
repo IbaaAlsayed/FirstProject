@@ -1,0 +1,13 @@
+body {
+    background-color:rgba(167, 23, 23, 0.993);
+}
+.main {   
+     background-color: rgb(211, 209, 209);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+video{
+    width: 700px;
+    height: 300px;
+}
